@@ -90,14 +90,6 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         } else {
             println("Not in perimeters")
         }
-        
-//        println("Point C: \(perimeter.pointC?.last as Double)")
-//        println("Longitude: \(loc.longitude)")
-//        println("Point D: \(perimeter.pointD?.last as Double)")
-        
-        
-//        println(perimeter.pointA)
-        
         return within
     }
     
