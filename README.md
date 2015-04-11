@@ -9,3 +9,5 @@ Your one stop shop for all things Swift.
 
 - <b>Preset location</b> - It is set to work if one is at Apple HQ.<br />
 On your iOS Simulator, go to Debug -> Location -> Apple.
+
+EOL
